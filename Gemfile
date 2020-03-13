@@ -68,4 +68,4 @@ gem "jquery-rails", "~> 4.3"
 gem "devise", "~> 4.7"
 gem "cancancan", "~> 3.0"
 
-gem "bootstrap-sass", "= 3.3.6"
+gem "bootstrap-sass", "3.4.1"
